@@ -1,0 +1,15 @@
+.landing-card {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    width: 30%;
+    max-width: 90%;
+    left: 0;
+    right: 0;
+    max-height: max-content
+}
+
+.header{
+    color:#006400;
+}

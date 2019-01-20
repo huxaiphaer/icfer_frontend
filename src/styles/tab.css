@@ -1,0 +1,21 @@
+
+.tab-size{
+    margin-top: 20px;
+}
+.tabs .tab a{
+    color:#fff;
+} /*Black color to the text*/
+
+.tabs .tab a:hover {
+    background-color:#eee;
+    color:#fff;
+} /*Text color on hover*/
+
+.tabs .tab a.active {
+    background-color:#00796b;
+    color:#fff;
+} /*Background and text color when a tab is active*/
+
+.tabs .indicator {
+    background-color:#fff;
+} /*Color of underline*/

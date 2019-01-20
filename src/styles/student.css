@@ -1,0 +1,16 @@
+.label-style{
+    font-size: 18px;
+    color: #008000;
+    margin-left: 12px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.label-sizes{
+    height: 2px;
+}
+
+.align-preloader{
+    margin-left: 5px;
+    margin-top: 9px;
+}
